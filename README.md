@@ -20,6 +20,10 @@ This project is intended for learning and portfolio purposes only.
 - Clean and structured codebase
 
 ---
+## Preview
+
+
+---
 
 ## Technologies Used
 
