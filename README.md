@@ -21,7 +21,23 @@ This project is intended for learning and portfolio purposes only.
 
 ---
 ## Preview
+### Homepage
 
+<p align="center">
+  <img src="screenshots/Netflix-Homepage.png" alt="Homepage Preview" width="100%">
+</p>
+
+### Features Section
+
+<p align="center">
+  <img src="screenshots/Netflix-1.png" alt="Features Preview" width="100%">
+</p>
+
+### Footer
+
+<p align="center">
+  <img src="screenshots/Netflix-footer.png" alt="Footer Preview" width="100%">
+</p>
 
 ---
 
